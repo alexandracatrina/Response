@@ -1,0 +1,16 @@
+.map-container {
+  position: absolute; 
+  top: 132px; 
+  right: 2px;; 
+  margin-left: 95px;
+  border-radius: 0px; 
+  overflow: hidden;
+  width: 61%; 
+  
+}
+
+.map-container img {
+  width: 100%; 
+  height: auto; 
+
+}

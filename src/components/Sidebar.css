@@ -1,0 +1,49 @@
+.sidebar {
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 1px solid #ccc;
+  }
+  
+  .sidebar h2 {
+    margin-top: 10px;
+   
+  }
+  
+  .sidebar form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar form label {
+    margin-top: 40px;
+   
+
+  }
+  
+  .sidebar form select,
+  .sidebar form button {
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px solid #0c0c0c;
+    border-radius: 5px;
+  }
+  
+  .sidebar form button {
+    margin-top: 15px;
+    background-color: #1860ac;
+    color: rgb(248, 239, 239);
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .sidebar form button[type="button"] {
+    background-color: white;
+    color: #333;
+    border: 1px solid #121111;
+  }
+  
